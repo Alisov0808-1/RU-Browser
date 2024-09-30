@@ -2,6 +2,8 @@
 
 Старый репозиторий: https://github.com/Alisov0808/RU-browser/
 
+
+
  
 !Браузер находится в бете!
 
@@ -14,9 +16,11 @@
 * Оптимирован под работу с небольшим количеством ОЗУ (от 1 ГБ)
 * Собственая поддержка расширений
 
-  Скриншоты:
+
+
+Скриншоты:
   
-Пример тем оформления
+Примеры тем оформления
 ![Снимок](https://github.com/user-attachments/assets/ea2cfd13-bfc1-41ac-b52f-4abfcf432bf9)
 ![Снимок2](https://github.com/user-attachments/assets/b917b517-1c71-41db-86a1-4abaaa34325e)
 ![Снимок3](https://github.com/user-attachments/assets/81f28db8-bf6a-4bab-a9ee-c966a002a4f3)
