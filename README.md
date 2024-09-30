@@ -30,7 +30,7 @@
 ![Снимок8](https://github.com/user-attachments/assets/b8c1c46f-1e8e-4c56-94a5-c5c5d72fac97)
 ![Снимок9](https://github.com/user-attachments/assets/81c9d8ab-20ca-441b-8c2f-b63e2c3e89be)
 
-Диспетчер загрузок
+Менеджер загрузок
 ![Снимок7](https://github.com/user-attachments/assets/da31122d-ef0c-4e47-84cf-dda252163737)
 
 Сам браузер
